@@ -2,9 +2,6 @@
 
 ### A passionate Flutter developer and AI/ML & Data Science enthusiast from India
 
-**prateek-kalwar-95/prateek-kalwar-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-kalwar-95&layout=compact&theme=radical)  
