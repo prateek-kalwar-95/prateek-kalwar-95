@@ -13,14 +13,14 @@
 
 ### 🧠 Programming Languages
 <p align="">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,dart,js,css,html," />
   </a>
 </p>
 
 🧩 Frameworks & Libraries
 <p align="">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=flask,fastapi,flutter,sklearn,opencv," />
   </a>
 </p>
